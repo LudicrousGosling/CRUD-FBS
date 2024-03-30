@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279608144805",
+    "project_id": "crud-fb-f5c86",
+    "storage_bucket": "crud-fb-f5c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279608144805:android:4be25028eca048061dee4c",
+        "android_client_info": {
+          "package_name": "com.example.crudfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa3jNDzBLqlSXvW0U8k3pnlKONt13B-JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
